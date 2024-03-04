@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo Quental</h1>
-<h3 align="center">Estudante da primeira turma de Ciência da Computação no Insper, motivado pela ideia de usar a tecnologia para criar soluções inovadoras que resolvam problemas reais do nosso dia a dia.</h3>
+<h3 align="center">Student of the first Computer Science class at Insper, motivated by the idea of ​​using technology to create innovative solutions that solve real problems in our daily lives.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
