@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enzo Quental</h1>
 <h3 align="center">Estudante da primeira turma de Ciência da Computação no Insper, motivado pela ideia de usar a tecnologia para criar soluções inovadoras que resolvam problemas reais do nosso dia a dia.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzoq2202" alt="enzoq2202" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enzoquental" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzoquental" height="30" width="40" /></a>
