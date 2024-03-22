@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo Quental</h1>
-<h3 align="center">Student of the first Computer Science class at Insper, motivated by the idea of ​​using technology to create innovative solutions that solve real problems in our daily lives.</h3>
+<h3 align="center">Student of the first Computer Science class at Insper.</h3>
 
 ![](https://streak-stats.demolab.com?user=Enzoq2202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)<br/>
 
